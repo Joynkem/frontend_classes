@@ -1,0 +1,51 @@
+body{
+    /*background-image: url("../bgroundcss.jpeg");
+    background-repeat: repeat-x;
+    background-attachment: fixed;*/
+    background: #ffffff url("../bgroundcss.jpeg") no-repeat right top;
+
+
+
+}
+p{
+    color: rgb(90, 56, 212);
+}
+#fstp{
+    background-color: rgb(231, 182, 109);
+    color: blueviolet;
+}
+.loremn{
+    text-align: right;
+}
+p.middle{
+    font-size: 35px;
+}
+h2{
+    background-color: brown;
+    color: bisque;
+}
+#intro, .grp1, address{
+    background: #ffa500;
+    font-size: 25px;
+    color: hsla(9, 53%, 32%, 0.4);
+}
+div .loremn{
+    background-color: rgba(132, 45, 123,  0.7);
+}
+.middle{
+    border-style: dotted;
+    border-width: 10px;
+
+}
+#ctr{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: rgb(229, 128, 128) green rgb(64, 119, 171) rgb(132, 129, 234); 
+    margin: 25px 30px 55px 100px;
+    padding: 25px 50px 75px 100px;
+    max-width: 200px;
+    height: 80px;
+
+
+}
