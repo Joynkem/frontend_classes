@@ -1,0 +1,75 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.leftt{
+    margin-right: 600px;
+}
+.blackright{
+    float: right;
+    background-color: black;
+    height: 400px;
+    width: 30%;
+}
+#largeimg{
+    width: 700px;
+    height: 200px;
+}
+.readmore{
+    padding-top: 30px;
+}
+.sidediv{
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.bright{
+    float: left;
+    font-size: 30px;
+}
+.dive{
+    float: right; 
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+h2{
+    color: white;
+}
+p{
+    color: bisque;
+}
+.pcside{
+    float: left;
+    height: 127px;
+    width: 100px;
+    margin-left: 20px;
+}
+.oldpc{
+    height: 127px;
+    width: 100px;
+    float: left;
+}
+.oldpc  img{
+    width: 100px;
+    height: 117px;
+}
+.bottomdiv{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.btmdivitem{
+    width: 300px;
+}
+.bottomh3{
+    color: rgb(179, 202, 222);
+    margin-top: 0;
+}
+.bottomh4{
+    color: rgb(54, 47, 47);
+    margin-top: 0;
+    width:150px ;
+}
+.bottomp{
+    width: 200px;
+    height: 50px;
+}
